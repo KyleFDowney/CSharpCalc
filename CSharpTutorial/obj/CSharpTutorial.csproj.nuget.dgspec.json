@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "O:\\Users\\Warlock\\source\\repos\\CSharp\\CSharpTutorial\\CSharpTutorial\\CSharpTutorial.csproj": {}
+  },
+  "projects": {
+    "O:\\Users\\Warlock\\source\\repos\\CSharp\\CSharpTutorial\\CSharpTutorial\\CSharpTutorial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "O:\\Users\\Warlock\\source\\repos\\CSharp\\CSharpTutorial\\CSharpTutorial\\CSharpTutorial.csproj",
+        "projectName": "CSharpTutorial",
+        "projectPath": "O:\\Users\\Warlock\\source\\repos\\CSharp\\CSharpTutorial\\CSharpTutorial\\CSharpTutorial.csproj",
+        "packagesPath": "O:\\Users\\Warlock\\.nuget\\packages\\",
+        "outputPath": "O:\\Users\\Warlock\\source\\repos\\CSharp\\CSharpTutorial\\CSharpTutorial\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "O:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "O:\\Users\\Warlock\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "O:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "O:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

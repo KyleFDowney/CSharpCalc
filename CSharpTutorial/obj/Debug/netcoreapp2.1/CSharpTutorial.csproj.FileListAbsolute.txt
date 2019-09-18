@@ -1,0 +1,11 @@
+O:\Users\Warlock\source\repos\CSharp\CSharpTutorial\CSharpTutorial\bin\Debug\netcoreapp2.1\CSharpTutorial.deps.json
+O:\Users\Warlock\source\repos\CSharp\CSharpTutorial\CSharpTutorial\bin\Debug\netcoreapp2.1\CSharpTutorial.runtimeconfig.json
+O:\Users\Warlock\source\repos\CSharp\CSharpTutorial\CSharpTutorial\bin\Debug\netcoreapp2.1\CSharpTutorial.runtimeconfig.dev.json
+O:\Users\Warlock\source\repos\CSharp\CSharpTutorial\CSharpTutorial\bin\Debug\netcoreapp2.1\CSharpTutorial.dll
+O:\Users\Warlock\source\repos\CSharp\CSharpTutorial\CSharpTutorial\bin\Debug\netcoreapp2.1\CSharpTutorial.pdb
+O:\Users\Warlock\source\repos\CSharp\CSharpTutorial\CSharpTutorial\obj\Debug\netcoreapp2.1\CSharpTutorial.csprojAssemblyReference.cache
+O:\Users\Warlock\source\repos\CSharp\CSharpTutorial\CSharpTutorial\obj\Debug\netcoreapp2.1\CSharpTutorial.csproj.CoreCompileInputs.cache
+O:\Users\Warlock\source\repos\CSharp\CSharpTutorial\CSharpTutorial\obj\Debug\netcoreapp2.1\CSharpTutorial.AssemblyInfoInputs.cache
+O:\Users\Warlock\source\repos\CSharp\CSharpTutorial\CSharpTutorial\obj\Debug\netcoreapp2.1\CSharpTutorial.AssemblyInfo.cs
+O:\Users\Warlock\source\repos\CSharp\CSharpTutorial\CSharpTutorial\obj\Debug\netcoreapp2.1\CSharpTutorial.dll
+O:\Users\Warlock\source\repos\CSharp\CSharpTutorial\CSharpTutorial\obj\Debug\netcoreapp2.1\CSharpTutorial.pdb
